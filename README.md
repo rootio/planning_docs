@@ -1,4 +1,4 @@
 planning_docs
 =============
 
-Rootio planning docs and [wiki]
+Rootio planning docs and [wiki](wiki)
