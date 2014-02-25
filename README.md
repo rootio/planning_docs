@@ -1,4 +1,4 @@
 planning_docs
 =============
 
-Rootio planning docs and [wiki](/rootio/planning_docs/wiki)
+Rootio planning docs and [wiki](https://github.com/rootio/planning_docs/wiki/)
